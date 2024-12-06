@@ -24,8 +24,10 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 <details>
 <summary>View Development Timeline</summary>
 
-![HMS Commit 1](./images/project1/)
-![HMS Commit 2](./images/project1/)
+![HMS Commit 1](./images/project1/stats_api_1)
+![HMS Commit 2](./images/project1/stats_api_2)
+![HMS Commit 3](./images/project1/external_api_2)
+![HMS Commit 3](./images/project1/job_cancelled_status_logic)
 
 </details>
 
