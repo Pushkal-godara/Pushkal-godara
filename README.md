@@ -30,15 +30,6 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 ![HMS Commit 3](./images/project1/job_cancelled_status_logic)
 
 </details>
-#### 🚀 Development Journey
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-
-![HMS Commit 1](./images/project1/commit1.png)
-![HMS Commit 2](./images/project1/commit2.png)
-![HMS Commit 3](./images/project1/commit3.png)
-![HMS Commit 4](./images/project1/commit4.png)
-
-</div>
 
 
 ## 📫 How to reach me
