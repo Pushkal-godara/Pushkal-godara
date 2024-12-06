@@ -20,6 +20,15 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 - Architected database schema and business logic for 10+ core entities including job management, service tracking, and payment processing
 - Technologies: Node.js, Sails.js, MySQL, REST APIs
 
+#### 🚀 Development Journey
+<details>
+<summary>View Development Timeline</summary>
+
+![HMS Commit 1](./images/project1/)
+![HMS Commit 2](./images/project1/)
+
+</details>
+
 
 ## 📫 How to reach me
 - Email: your.email@example.com
