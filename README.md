@@ -98,6 +98,7 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 </tr>
 </table>
 </details>
+
 ### Frontend Repository
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   
