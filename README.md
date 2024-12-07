@@ -62,49 +62,46 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 
 #### 🚀 Development Journey
 <details>
-  <summary>View Repository Links</summary>
+<summary>View Repository Links</summary>
 
-  ### Backend Repository
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### Backend Repository
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+ 
+⚙️ [backend-repo](https://github.com/Pushkal-godara/lib-management-system)
+
+📚 API Documentation: `http://localhost:1111/api#` (Available after running the server)
+
+<details>
+<summary>View API Documentation Preview</summary>
+
+### API Documentation Preview
+<table>
+<tr>
+<td width="33%">
+<a href="./images/project_library/swagger-overview.png">
+<img src="./images/project_library/swagger-overview.png" alt="API Overview" width="600px">
+<br>
+<em>API Overview (Click to enlarge)</em>
+</a>
+</td>
+</tr>
+<tr>
+<td width="33%">
+<a href="./images/project_library/book-endpoints.png">
+<img src="./images/project_library/book-endpoints.png" alt="Book Management APIs" width="600px">
+<br>
+<em>Book Management APIs (Click to enlarge)</em>
+</a>
+</td>
+</tr>
+</table>
+</details>
+### Frontend Repository
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   
-  ⚙️ [backend-repo](https://github.com/Pushkal-godara/lib-management-system)
-
-  📚 API Documentation: `http://localhost:1111/api#` (Available after running the server)
-
-    <details>
-    <summary>View API Documentation Preview</summary>
-
-    ### API Documentation Preview
-    
-    <table>
-      <tr>
-        <td width="33%">
-          <a href="./images/project_library/swagger-overview.png">
-            <img src="./images/project_library/swagger-overview.png" alt="API Overview" width="600px">
-            <br>
-            <em>API Overview (Click to enlarge)</em>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="33%">
-          <a href="./images/project_library/book-endpoints.png">
-            <img src="./images/project_library/book-endpoints.png" alt="Book Management APIs" width="600px">
-            <br>
-            <em>Book Management APIs (Click to enlarge)</em>
-          </a>
-        </td>
-      </tr>
-    </table>
-    
-    </details>
-
-  ### Frontend Repository
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  
-  🎨 [frontend-repo](https://github.com/Pushkal-godara/library-management-ui)
+🎨 [frontend-repo](https://github.com/Pushkal-godara/library-management-ui)
 </details>
 
 ## 📫 How to reach me
