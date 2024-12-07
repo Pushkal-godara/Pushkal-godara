@@ -63,28 +63,18 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 #### 🚀 Development Journey
 <details>
   <summary>View Repository Links</summary>
-  
-  ⚙️ Backend: [lib-management-system](https://github.com/YourUsername/lib-management-system)
-  🎨 Frontend: [library-management-ui](https://github.com/YourUsername/library-management-ui)
-</details>
 
-
-#### 🚀 Development Journey 2
-<details>
-  <summary>View Repository Links</summary>
-
-  ### Backend Stack
+  ### Backend Repository
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   
-  ⚙️ [View Backend Code](https://github.com/YourUsername/lib-management-system)
+  ⚙️ [lib-management-system](https://github.com/YourUsername/lib-management-system)
 
-  ### Frontend Stack
+  ### Frontend Repository
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   
-  🎨 [View Frontend Code](https://github.com/YourUsername/library-management-ui)
+  🎨 [library-management-ui](https://github.com/YourUsername/library-management-ui)
 </details>
 
 ## 📫 How to reach me
