@@ -50,6 +50,24 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 
 </details>
 
+### Library Management System (Full-Stack Personal Project)
+- Developed a full-stack library management application with role-based authentication (Admin, Librarian, Student)
+- Implemented NestJS best practices using modular architecture with DTOs for validation, Controllers for routing, Services for business logic, and Providers for dependency injection
+- Built RESTful APIs using NestJS and TypeScript, integrated with MySQL database using Sequelize ORM
+- Created interactive dashboard using React.js featuring real-time book tracking, user management, and transaction monitoring
+- Designed scalable module structure with 10+ core features (books, users, loans, reservations) following NestJS architectural patterns
+- Implemented comprehensive API documentation using Swagger/OpenAPI for better developer experience
+- Technologies: NestJS, React.js, TypeScript, MySQL, Sequelize ORM, Swagger
+
+#### 🚀 Development Journey
+<details>
+  <summary>View Development Timeline</summary>
+
+  ![HMS-1 Commit 1](./images/project2/)
+  ![HMS-1 Commit 1](./images/project2/)
+  ![HMS-1 Commit 1](./images/project2/)
+  ![HMS-1 Commit 1](./images/project2/)
+</details>
 
 
 ## 📫 How to reach me
