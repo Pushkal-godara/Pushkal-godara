@@ -7,7 +7,7 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 - Learning: ReactJS (Practice Projects)
 - Databases: PostgreSQL with Sequelize ORM, MySQL
 - Testing: Jest
-- Documentation: Swagger
+- API Testing & Documentation: Postman, Swagger/OpenAPI
 - Version Control: Git
 
 ## 💻 Featured Projects
