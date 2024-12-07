@@ -71,6 +71,19 @@ Backend Developer passionate about Database Optimization, API Design, Security I
   
   ⚙️ [backend-repo](https://github.com/Pushkal-godara/lib-management-system)
 
+  📚 API Documentation: `http://localhost:1111/api#` (Available after running the server)
+
+    <details>
+    <summary>View API Documentation Preview</summary>
+    
+    ### API Endpoints Overview
+    ![Swagger Overview](./images/project_library/swagger-overview.png)
+    
+    ### Book Management APIs
+    ![Book APIs](./images/project_library/book-endpoints.png)
+    
+    </details>
+
   ### Frontend Repository
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   
