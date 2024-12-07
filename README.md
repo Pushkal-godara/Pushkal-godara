@@ -75,12 +75,29 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 
     <details>
     <summary>View API Documentation Preview</summary>
+
+    ### API Documentation Preview
     
-    ### API Endpoints Overview
-    ![Swagger Overview](./images/project_library/swagger-overview.png)
-    
-    ### Book Management APIs
-    ![Book APIs](./images/project_library/book-endpoints.png)
+    <table>
+      <tr>
+        <td width="33%">
+          <a href="./images/project_library/swagger-overview.png">
+            <img src="./images/project_library/swagger-overview.png" alt="API Overview" width="600px">
+            <br>
+            <em>API Overview (Click to enlarge)</em>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="33%">
+          <a href="./images/project_library/book-endpoints.png">
+            <img src="./images/project_library/book-endpoints.png" alt="Book Management APIs" width="600px">
+            <br>
+            <em>Book Management APIs (Click to enlarge)</em>
+          </a>
+        </td>
+      </tr>
+    </table>
     
     </details>
 
