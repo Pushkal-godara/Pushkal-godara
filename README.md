@@ -63,10 +63,6 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 <details>
   <summary>View Development Timeline</summary>
 
-  ![HMS-1 Commit 1](./images/project2/)
-  ![HMS-1 Commit 1](./images/project2/)
-  ![HMS-1 Commit 1](./images/project2/)
-  ![HMS-1 Commit 1](./images/project2/)
 </details>
 
 
