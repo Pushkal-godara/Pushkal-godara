@@ -25,10 +25,11 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 <details>
   <summary>View Development Timeline</summary>
 
-  ![HMS-1 Commit 1](./images/project2/)
-  ![HMS-1 Commit 1](./images/project2/)
-  ![HMS-1 Commit 1](./images/project2/)
-  ![HMS-1 Commit 1](./images/project2/)
+  ![HMS-1 Commit 1](./images/project_medi/cancel_reason_master.png)
+  ![HMS-1 Commit 1](./images/project_medi/slot_availability_fn.png)
+  ![HMS-1 Commit 1](./images/project_medi/seeder_commits.png)
+  ![HMS-1 Commit 1](./images/project_medi/post_slot_reservation.png)
+  ![HMS-1 Commit 1](./images/project_medi/getPaymentInfoByCartId_fn.png)
 </details>
 
 ### Healthcare Management System - Phlebotomist Service Platform
