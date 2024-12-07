@@ -12,6 +12,25 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 
 ## 💻 Featured Projects
 
+### Enterprise Healthcare Management Platform (NestJS)
+- Architected and developed a comprehensive healthcare platform handling multiple service verticals including pharmacy, laboratory, radiology, and doctor consultations
+- Made 135 commits over 10 months, delivering key features across pharmacy ordering, lab testing, and doctor consultation modules
+- Implemented end-to-end cart management system similar to e-commerce platforms, handling complex order flows and real-time inventory management
+- Designed and developed 20+ database entities using PostgreSQL and Sequelize ORM, managing complex relationships across modules
+- Built RESTful APIs enabling seamless integration between CRM dashboard and patient mobile application
+- Structured modular codebase using NestJS and TypeScript, following domain-driven design principles
+- Technologies: Node.js, NestJS, TypeScript, PostgreSQL, Sequelize ORM, REST APIs
+
+#### 🚀 Development Journey
+<details>
+  <summary>View Development Timeline</summary>
+
+  ![HMS-1 Commit 1](./images/project2/)
+  ![HMS-1 Commit 1](./images/project2/)
+  ![HMS-1 Commit 1](./images/project2/)
+  ![HMS-1 Commit 1](./images/project2/)
+</details>
+
 ### Healthcare Management System - Phlebotomist Service Platform
 - Developed and deployed a comprehensive backend system to beta/UAT environments using Node.js (Sails.js) and MySQL, managing phlebotomist services across hospital dashboard and mobile platforms
 - Implemented REST APIs with 110 commits over 8 months of development, maintaining a consistent delivery pipeline to UAT
@@ -34,5 +53,5 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 
 
 ## 📫 How to reach me
-- Email: your.email@example.com
+- Email: godarapushkal@gmail.com
 - LinkedIn: [Your Profile]
