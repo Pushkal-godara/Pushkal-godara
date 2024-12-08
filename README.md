@@ -107,4 +107,4 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 
 ## 📫 How to reach me
 - Email: godarapushkal@gmail.com
-- LinkedIn: [Your Profile]
+- LinkedIn: www.linkedin.com/in/pushkal-godara
