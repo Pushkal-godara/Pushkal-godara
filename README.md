@@ -1,5 +1,5 @@
 # Hi, I'm Pushkal Godara 👋
-Backend Developer passionate about Database Optimization, API Design, Security Implementation(Very Critical), Performance Optimization, Real-time Processing, System Scalability 
+Backend Developer passionate about Database Optimization, API Design, Security Implementation(RBAC), Performance Optimization, Real-time Processing, System Scalability 
 
 ## 🔧 Technologies & Tools
 - Languages: JavaScript, TypeScript, Node.js
