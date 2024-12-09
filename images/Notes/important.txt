@@ -1,0 +1,35 @@
+1-- Validation{parameter validation}.
+
+2-- Formatting/Transforming parameters.
+
+3-- Logic implementation{If/Else(condition...), etc.}.
+
+4-- Check Query and Query-Result{If output need to be modified or not}.
+
+
+Note:---
+- First of all follow above steps before doing any change inside your code, Do rough work in a note book.
+- Try to keep code short and do not directly change code without proper validation.
+- Try to be more specific while asking questions with chatGPT.
+- Connection:-(DRIVER)
+             * Specify the type of App. you are building(Node.js, React.js, etc..).
+	     * Note that front-end side JS runs on browsers(like back-end JS runs on nodeJS), but now a days to make it easy/managable we use frame-works
+		 for front-end like ReactJS, AngularJS, etc,..
+             * Type of Database you are using.
+             * Then specify the npm module you want to use for making connection between your App and Database:{Also know as "< Database Drivers >"}
+                   (Ex: for MySQL DB ----> npm module "mysql" or "mysql2"
+                        for Postgresql DB ----> npm module "pg"). 
+            
+
+- ORM:- 
+       * To run queries we use orm which act as a communication bridge between our App & DB.
+       * For example: 
+                    => "Sequelize" is widely-used and feature-rich ORM for Node.js that supports multiple database systems, including MySQL,Postgresql,etc..
+                    => "TypeORM" is an ORM that supports TypeScript and JavaScript and can be used with various databases, including MySQL, Postgresql,etc.. 
+
+- Driver: A low-level software component specific to a particular database management system that enables communication between an application and that
+          database.
+- Adapter: In some contexts, an adapter can refer to a higher-level abstraction that provides a unified interface for interacting with different databases, 
+           often building on top of specific drivers.
+- Connector: A term that is used interchangeably with "driver" or "adapter," representing a software component that facilitates the connection and 
+           communication between an application and a specific database. 
