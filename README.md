@@ -33,7 +33,7 @@ Backend Developer passionate about Database Optimization, API Design, Security I
 </details>
 
 ### Healthcare Management System - Phlebotomist Service Platform
-- Developed and deployed a comprehensive backend system to beta/UAT environments using Node.js (Sails.js) and MySQL, managing phlebotomist services across hospital dashboard and mobile platforms
+- Maintained a comprehensive backend system to beta/UAT environments using Node.js (Sails.js) and MySQL, managing phlebotomist services across hospital dashboard and mobile platforms
 - Implemented REST APIs with 110 commits over 8 months of development, maintaining a consistent delivery pipeline to UAT
 - Built core functionalities including job assignment system, real-time status tracking, roster management, and service area allocation
 - Implemented secure role-based access control system differentiating between admin dashboard and phlebotomist mobile app permissions
